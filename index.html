@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katalog Fatimah Florist - Luxury Collection</title>
+    <!-- Google Fonts & FontAwesome untuk Ikon -->
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header / Banner Toko Premium -->
+    <header class="header">
+        <div class="header-container">
+            <div class="brand-badge">
+                <i class="fa-solid fa-spa"></i> Premium Florist & Gift
+            </div>
+            <div class="logo-area">
+                <div class="flower-icon-decor"><i class="fa-solid fa-seedling"></i></div>
+                <h1>Fatimah Florist</h1>
+                <p>Katalog Buket & Rangkaian Bunga Eksklusif</p>
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Cari buket mewah, bunga meja, atau kado...">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Filter Kategori dengan Ikon Simbol -->
+    <div class="categories-container">
+        <div class="categories" id="categoryList">
+            <button class="cat-btn active" data-category="all">
+                <i class="fa-solid fa-border-all"></i> Semua Produk
+            </button>
+            <button class="cat-btn" data-category="Buket Bunga">
+                <i class="fa-solid fa-wheat-awn"></i> Buket Bunga
+            </button>
+            <button class="cat-btn" data-category="Bloom Box">
+                <i class="fa-solid fa-box-open"></i> Bloom Box
+            </button>
+            <button class="cat-btn" data-category="Buket Snack">
+                <i class="fa-solid fa-cookie-bite"></i> Buket Snack
+            </button>
+            <button class="cat-btn" data-category="Korean Style">
+                <i class="fa-solid fa-ribbon"></i> Korean Style
+            </button>
+            <button class="cat-btn" data-category="Bunga Meja">
+                <i class="fa-solid fa-icons"></i> Bunga Meja & Vas
+            </button>
+            <button class="cat-btn" data-category="Buket Uang">
+                <i class="fa-solid fa-money-bill-wave"></i> Buket Uang
+            </button>
+            <button class="cat-btn" data-category="Custom">
+                <i class="fa-solid fa-wand-magic-sparkles"></i> Custom
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Content: Daftar Produk -->
+    <main class="main-container">
+        <div class="product-grid" id="productGrid">
+            <!-- Produk akan dimuat otomatis via JavaScript -->
+        </div>
+        <div id="noResult" class="no-result hidden">
+            <i class="fa-solid fa-box-open"></i>
+            <p>Produk tidak ditemukan dalam kategori ini.</p>
+        </div>
+    </main>
+
+    <!-- Modal Detail Produk -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <button class="close-modal" id="closeModal">&times;</button>
+            <div class="modal-body">
+                <div class="modal-img-container">
+                    <img id="modalImg" src="" alt="Produk Fatimah Florist">
+                    <span class="zoom-hint"><i class="fa-solid fa-magnifying-glass-plus"></i> Klik foto untuk zoom</span>
+                </div>
+                <div class="modal-details">
+                    <span id="modalCategory" class="modal-cat"></span>
+                    <h2 id="modalTitle"></h2>
+                    <p id="modalPrice" class="modal-price"></p>
+                    <p id="modalDesc" class="modal-desc"></p>
+
+                    <!-- Dropdown Khusus Buket Uang -->
+                    <div class="modal-options" id="moneyOptionsContainer" style="display: none;">
+                        <label>Pilih Jumlah Lembar Uang (Pricelist Jasa):</label>
+                        <select id="moneySelect">
+                            <option value="100000" data-text="1 - 10 lembar (Rp 100.000)">1 - 10 lembar</option>
+                            <option value="150000" data-text="11 - 20 lembar (Rp 150.000)">11 - 20 lembar</option>
+                            <option value="200000" data-text="21 - 30 lembar (Rp 200.000)">21 - 30 lembar</option>
+                            <option value="250000" data-text="31 - 40 lembar (Rp 250.000)">31 - 40 lembar</option>
+                            <option value="325000" data-text="41 - 50 lembar (Rp 325.000)">41 - 50 lembar</option>
+                            <option value="425000" data-text="51 - 60 lembar (Rp 425.000)">51 - 60 lembar</option>
+                            <option value="675000" data-text="61 - 75 lembar (Rp 675.000)">61 - 75 lembar</option>
+                            <option value="1150000" data-text="76 - 100 lembar (Rp 1.150.000)">76 - 100 lembar</option>
+                        </select>
+                    </div>
+
+                    <a href="#" id="modalWhatsApp" class="wa-order-btn" target="_blank">
+                        <i class="fa-brands fa-whatsapp"></i> Pesan via WhatsApp
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer / Kontak Luxury Style -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-col brand-col">
+                <h3>Fatimah Florist</h3>
+                <p class="brand-desc">Spesialis buket bunga segar, artifisial, bloom box, dan kado custom elegan untuk momen berharga Anda.</p>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/fatimahh.florist?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==" target="_blank" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://wa.me/628895138447" target="_blank" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+                </div>
+            </div>
+
+            <div class="footer-col info-col">
+                <h4>Informasi Pemesanan</h4>
+                <ul>
+                    <li><i class="fa-solid fa-clock"></i> <strong>Sistem Order:</strong> Minimal H-1</li>
+                    <li><i class="fa-solid fa-store"></i> <strong>Ready Stock:</strong> Tanyakan slot via WA hari ini</li>
+                    <li><i class="fa-solid fa-truck-fast"></i> <strong>Pengiriman:</strong> Kurir Instan</li>
+                </ul>
+            </div>
+
+            <div class="footer-col contact-col">
+                <h4>Hubungi Kami</h4>
+                <p><i class="fa-solid fa-headset"></i> Layanan Pelanggan Ramah & Cepat</p>
+                <a href="https://wa.me/628895138447" target="_blank" class="footer-wa-btn">
+                    <i class="fa-brands fa-whatsapp"></i> Chat Admin WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p class="copyright">&copy; 2026 Fatimah Florist. Crafted with <i class="fa-solid fa-heart" style="color: #c5a059;"></i> All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Lightbox Popup untuk Zoom Gambar -->
+    <div id="imageLightbox" class="lightbox-modal">
+        <span class="close-lightbox">&times;</span>
+        <img class="lightbox-content" id="lightboxImg" alt="Zoom Gambar">
+    </div>
+
+    <script src="database.js"></script>
+</body>
+</html>
