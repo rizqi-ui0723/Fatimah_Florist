@@ -8,7 +8,7 @@ const products = [
         name: "BlomBox Artificial Flower Drak Blue",
         category: "Bloom Box",
         price: 300000,
-        image: "IMAGE/BlomBox artificial flower drak blue  300k.jpeg",
+        image: "IMAGE/BlomBox artificial flower drak blue 300k.jpeg",
         description: "Rangkaian bunga artifisial nuansa gelap elegan di dalam box eksklusif."
     },
     {
@@ -16,7 +16,7 @@ const products = [
         name: "BlomBox Artificial Flower Navy",
         category: "Bloom Box",
         price: 300000,
-        image: "IMAGE/BlomBox artificial flower navy  300k.jpeg",
+        image: "IMAGE/BlomBox artificial flower navy 300k.jpeg",
         description: "Bloom box tema navy mewah yang cantik untuk berbagai acara spesial."
     },
     {
@@ -32,7 +32,7 @@ const products = [
         name: "BlomBox Artificial Flower Sage",
         category: "Bloom Box",
         price: 300000,
-        image: "IMAGE/BlomBox artificial flower sage  300k.jpeg",
+        image: "IMAGE/BlomBox artificial flower sage 300k.jpeg",
         description: "Bloom box warna sage green kekinian yang aesthetic."
     },
     {
@@ -48,7 +48,7 @@ const products = [
         name: "BloomBox Artificial Flower Color Full",
         category: "Bloom Box",
         price: 300000,
-        image: "IMAGE/BloomBox artificial flower color full  300k.jpeg",
+        image: "IMAGE/BloomBox artificial flower color full 300k.jpeg",
         description: "Rangkaian bunga warna-warni ceria di dalam box eksklusif."
     },
     {
@@ -56,7 +56,7 @@ const products = [
         name: "BloomBox Artificial Flower Maroon",
         category: "Bloom Box",
         price: 280000,
-        image: "IMAGE/BloomBox artificial flower maroon  280k.jpeg",
+        image: "IMAGE/BloomBox artificial flower maroon 280k.jpeg",
         description: "Bloom box warna merah maroon yang elegan dan berkelas."
     },
     {
@@ -64,7 +64,7 @@ const products = [
         name: "BloomBox Blue",
         category: "Bloom Box",
         price: 300000,
-        image: "IMAGE/BloomBox blue  300k.jpeg",
+        image: "IMAGE/BloomBox blue 300k.jpeg",
         description: "Bloom box nuansa biru segar nan menawan."
     },
     {
@@ -88,7 +88,7 @@ const products = [
         name: "BloomBox Rose",
         category: "Bloom Box",
         price: 350000,
-        image: "IMAGE/BloomBox rose  350k.jpeg",
+        image: "IMAGE/BloomBox rose 350k.jpeg",
         description: "Bloom box mawar pilihan yang cantik dan tahan lama."
     },
 
@@ -114,7 +114,7 @@ const products = [
         name: "Bouquet Blue Luxury",
         category: "Buket Bunga",
         price: 700000,
-        image: "IMAGE/Bouquet blue  700k.jpeg",
+        image: "IMAGE/Bouquet blue 700k.jpeg",
         description: "Buket besar nuansa biru mewah untuk momen sangat spesial."
     },
     {
@@ -122,7 +122,7 @@ const products = [
         name: "Bouquet Coklat 8 Pcs",
         category: "Buket Snack",
         price: 400000,
-        image: "IMAGE/Bouquet coklat 8 pcs  400k.jpeg",
+        image: "IMAGE/Bouquet coklat 8 pcs 400k.jpeg",
         description: "Buket berisi 8 pcs cokelat pilihan merk terkenal."
     },
     {
@@ -130,7 +130,7 @@ const products = [
         name: "Bouquet Coklat & Rose Red",
         category: "Buket Snack",
         price: 500000,
-        image: "IMAGE/Bouquet coklat 10 pcs x rose red  500k.jpeg",
+        image: "IMAGE/Bouquet coklat 10 pcs x rose red 500k.jpeg",
         description: "Kombinasi sempurna 10 pcs cokelat dan bunga mawar merah."
     },
     {
@@ -138,7 +138,7 @@ const products = [
         name: "Bouquet Coklat Ferrero 12 Pcs",
         category: "Buket Snack",
         price: 380000,
-        image: "IMAGE/Bouquet coklat forrero 12 pcs  380k.jpeg",
+        image: "IMAGE/Bouquet coklat forrero 12 pcs 380k.jpeg",
         description: "Buket eksklusif berisi 12 pcs cokelat Ferrero Rocher."
     },
     {
@@ -146,7 +146,7 @@ const products = [
         name: "Bouquet Coklat x Teddy Bear",
         category: "Buket Snack",
         price: 250000,
-        image: "IMAGE/Bouquet coklat x teddy bear  250k.jpeg",
+        image: "IMAGE/Bouquet coklat x teddy bear 250k.jpeg",
         description: "Buket cokelat manis dipadukan dengan boneka teddy bear imut."
     },
     {
@@ -154,7 +154,7 @@ const products = [
         name: "Bouquet Ferrero 50 Pcs (Giant)",
         category: "Buket Snack",
         price: 1000000,
-        image: "IMAGE/Bouquet forrero 50 pcs  1 jt.jpeg",
+        image: "IMAGE/Bouquet forrero 50 pcs 1 jt.jpeg",
         description: "Buket raksasa berisi 50 pcs cokelat Ferrero untuk kado spektakuler."
     },
     {
@@ -162,7 +162,7 @@ const products = [
         name: "Bouquet Garbera",
         category: "Buket Bunga",
         price: 350000,
-        image: "IMAGE/Bouquet garbera  350k.jpeg",
+        image: "IMAGE/Bouquet garbera 350k.jpeg",
         description: "Buket bunga garbera segar pilihan dengan balutan kertas cantik."
     },
     {
@@ -170,7 +170,7 @@ const products = [
         name: "Bouquet Garbera Mix Baby Breath",
         category: "Buket Bunga",
         price: 250000,
-        image: "IMAGE/Bouquet grabera mix baby breath  250k.jpeg",
+        image: "IMAGE/Bouquet grabera mix baby breath 250k.jpeg",
         description: "Perpaduan bunga garbera dan baby breath yang manis."
     },
     {
@@ -178,7 +178,7 @@ const products = [
         name: "Bouquet Krisan",
         category: "Buket Bunga",
         price: 280000,
-        image: "IMAGE/Bouquet kerisan  280k.jpeg",
+        image: "IMAGE/Bouquet kerisan 280k.jpeg",
         description: "Rangkaian bunga krisan segar rimbun dan cantik."
     },
     {
@@ -186,7 +186,7 @@ const products = [
         name: "Bouquet Korean Style",
         category: "Korean Style",
         price: 300000,
-        image: "IMAGE/Bouquet korean style  300k.jpeg",
+        image: "IMAGE/Bouquet korean style 300k.jpeg",
         description: "Buket gaya Korea dengan balutan wrap kain premium."
     },
     {
@@ -202,7 +202,7 @@ const products = [
         name: "Bouquet Korean Style Fanta",
         category: "Korean Style",
         price: 300000,
-        image: "IMAGE/Bouquet korean style fanta  300k.jpeg",
+        image: "IMAGE/Bouquet korean style fanta 300k.jpeg",
         description: "Buket gaya Korea warna pink fanta yang cerah dan mencolok."
     },
     {
@@ -210,7 +210,7 @@ const products = [
         name: "Bouquet Korean Style Hot Pink",
         category: "Korean Style",
         price: 320000,
-        image: "IMAGE/Bouquet korean style hot pink  320k.jpeg",
+        image: "IMAGE/Bouquet korean style hot pink 320k.jpeg",
         description: "Buket model Korea hot pink trendy dan modern."
     },
     {
@@ -218,7 +218,7 @@ const products = [
         name: "Bouquet Korean Style Blue (XL)",
         category: "Korean Style",
         price: 450000,
-        image: "IMAGE/Bouquet koren style blue artificial (uk XL)  450k.jpeg",
+        image: "IMAGE/Bouquet koren style blue artificial (uk XL) 450k.jpeg",
         description: "Buket gaya Korea ukuran besar (XL) warna biru elegan."
     },
     {
@@ -242,12 +242,12 @@ const products = [
         name: "Bouquet Lily",
         category: "Buket Bunga",
         price: 600000,
-        image: "IMAGE/Bouquet Lily  600k.jpeg",
+        image: "IMAGE/Bouquet Lily 600k1.jpeg",
         description: "Buket bunga lily harum mewah dan berkelas."
     },
     {
         id: 31,
-        name: "Bouquet Lily Duplicate",
+        name: "Bouquet Lily",
         category: "Buket Bunga",
         price: 600000,
         image: "IMAGE/Bouquet Lily 600k.jpeg",
@@ -258,7 +258,7 @@ const products = [
         name: "Bouquet Lily Artificial (XL)",
         category: "Buket Bunga",
         price: 400000,
-        image: "IMAGE/Bouquet Lily artificial uk XL  400k.jpeg",
+        image: "IMAGE/Bouquet Lily artificial uk XL 400k.jpeg",
         description: "Buket lily ukuran XL artifisial tahan lama dan megah."
     },
     {
@@ -266,7 +266,7 @@ const products = [
         name: "Bouquet Lily Mix Rose",
         category: "Buket Bunga",
         price: 500000,
-        image: "IMAGE/Bouquet Lily mix rose  500k.jpeg",
+        image: "IMAGE/Bouquet Lily mix rose 500k.jpeg",
         description: "Kombinasi elegan antara bunga lily dan mawar."
     },
     {
@@ -274,7 +274,7 @@ const products = [
         name: "Bouquet Lily Round Luxury",
         category: "Buket Bunga",
         price: 1500000,
-        image: "IMAGE/Bouquet Lily round  1,5 jt.jpeg",
+        image: "IMAGE/Bouquet Lily round 1,5 jt.jpeg",
         description: "Buket bundar lily eksklusif ukuran besar kelas premium."
     },
     {
@@ -282,7 +282,7 @@ const products = [
         name: "Bouquet Lily & Rose Mix",
         category: "Buket Bunga",
         price: 600000,
-        image: "IMAGE/Bouquet lily, rose  600k.jpeg",
+        image: "IMAGE/Bouquet lily, rose 600k.jpeg",
         description: "Rangkaian spesial bunga lily dan mawar segar berkualitas tinggi."
     },
     {
@@ -290,7 +290,7 @@ const products = [
         name: "Bouquet Navy",
         category: "Buket Bunga",
         price: 270000,
-        image: "IMAGE/Bouquet navy  270k.jpeg",
+        image: "IMAGE/Bouquet navy 270k.jpeg",
         description: "Buket nuansa warna navy maskulin dan elegan."
     },
     {
@@ -298,7 +298,7 @@ const products = [
         name: "Bouquet Peony Artificial",
         category: "Buket Bunga",
         price: 250000,
-        image: "IMAGE/Bouquet peony artificial  250k.jpeg",
+        image: "IMAGE/Bouquet peony artificial 250k.jpeg",
         description: "Buket bunga peony artifisial bertekstur lembut."
     },
     {
@@ -314,7 +314,7 @@ const products = [
         name: "Bouquet Pom Pom",
         category: "Buket Bunga",
         price: 700000,
-        image: "IMAGE/Bouquet pom pom  700k.jpeg",
+        image: "IMAGE/Bouquet pom pom 700k.jpeg",
         description: "Buket bunga krisan pom pom besar yang unik dan meriah."
     },
     {
@@ -322,7 +322,7 @@ const products = [
         name: "Bouquet Roko",
         category: "Custom",
         price: 500000,
-        image: "IMAGE/Bouquet roko  500k.jpeg",
+        image: "IMAGE/Bouquet roko 500k.jpeg",
         description: "Buket custom kreatif unik."
     },
     {
@@ -330,7 +330,7 @@ const products = [
         name: "Bouquet Rose Standard",
         category: "Buket Bunga",
         price: 100000,
-        image: "IMAGE/Bouquet rose  100k.jpeg",
+        image: "IMAGE/Bouquet rose 100k.jpeg",
         description: "Buket mawar simpel, manis, dan ramah di kantong."
     },
     {
@@ -338,7 +338,7 @@ const products = [
         name: "Bouquet Rose Blue Round",
         category: "Buket Bunga",
         price: 400000,
-        image: "IMAGE/Bouquet rose blue round artificial  400k.jpeg",
+        image: "IMAGE/Bouquet rose blue round artificial 400k.jpeg",
         description: "Buket mawar biru bentuk bulat melingkar rapi."
     },
     {
@@ -346,7 +346,7 @@ const products = [
         name: "Bouquet Rose Hitam Artificial",
         category: "Buket Bunga",
         price: 300000,
-        image: "IMAGE/Bouquet rose hitam artificial  300k.jpeg",
+        image: "IMAGE/Bouquet rose hitam artificial 300k.jpeg",
         description: "Buket mawar hitam artifisial dengan kesan misterius dan elegan."
     },
     {
@@ -362,7 +362,7 @@ const products = [
         name: "Bouquet Rose Mix Baby Breath",
         category: "Buket Bunga",
         price: 350000,
-        image: "IMAGE/Bouquet rose mix baby breath  350k.jpeg",
+        image: "IMAGE/Bouquet rose mix baby breath 350k.jpeg",
         description: "Buket mawar cantik dikelilingi baby breath putih."
     },
     {
@@ -370,7 +370,7 @@ const products = [
         name: "Bouquet Rose Pink x Wrap Sage",
         category: "Buket Bunga",
         price: 220000,
-        image: "IMAGE/Bouquet rose pink x warp sage  220k.jpeg",
+        image: "IMAGE/Bouquet rose pink x warp sage 220k.jpeg",
         description: "Mawar pink dibalut dengan kertas pembungkus warna sage."
     },
     {
@@ -378,7 +378,7 @@ const products = [
         name: "Bouquet Rose Putih",
         category: "Buket Bunga",
         price: 300000,
-        image: "IMAGE/Bouquet rose putih  300k.jpeg",
+        image: "IMAGE/Bouquet rose putih 300k.jpeg",
         description: "Buket mawar putih segar pilihan."
     },
     {
@@ -394,7 +394,7 @@ const products = [
         name: "Bouquet Rose Red",
         category: "Buket Bunga",
         price: 400000,
-        image: "IMAGE/Bouquet rose red  400k.jpeg",
+        image: "IMAGE/Bouquet rose red 400k.jpeg",
         description: "Buket mawar merah klasik tanda cinta yang mewah."
     },
     {
@@ -402,7 +402,7 @@ const products = [
         name: "Bouquet Rose Round Artificial",
         category: "Buket Bunga",
         price: 450000,
-        image: "IMAGE/Bouquet rose round artificial  450k.jpeg",
+        image: "IMAGE/Bouquet rose round artificial 450k.jpeg",
         description: "Buket mawar bundar artifisial padat dan rapi."
     },
     {
@@ -458,7 +458,7 @@ const products = [
         name: "Bouquet Sage",
         category: "Buket Bunga",
         price: 700000,
-        image: "IMAGE/Bouquet sage  700k.jpeg",
+        image: "IMAGE/Bouquet sage 700k.jpeg",
         description: "Buket besar nuansa sage green mewah."
     },
     {
@@ -466,7 +466,7 @@ const products = [
         name: "Bouquet Sage Vintage",
         category: "Buket Bunga",
         price: 250000,
-        image: "IMAGE/Bouquet sage vintage  250k.jpeg",
+        image: "IMAGE/Bouquet sage vintage 250k.jpeg",
         description: "Buket nuansa sage gaya vintage estetik."
     },
     {
@@ -474,7 +474,7 @@ const products = [
         name: "Bouquet Sage Wrap Hitam",
         category: "Buket Bunga",
         price: 120000,
-        image: "IMAGE/Bouquet sage warp hitam  120k.jpeg",
+        image: "IMAGE/Bouquet sage warp hitam 120k.jpeg",
         description: "Buket tema sage dengan pembungkus hitam kontras keren."
     },
     {
@@ -482,7 +482,7 @@ const products = [
         name: "Bouquet Sage Wrap Putih",
         category: "Buket Bunga",
         price: 120000,
-        image: "IMAGE/Bouquet sage x warp putih  120k.jpeg",
+        image: "IMAGE/Bouquet sage x warp putih 120k.jpeg",
         description: "Buket tema sage dengan balutan wrap putih bersih."
     },
     {
@@ -490,7 +490,7 @@ const products = [
         name: "Bouquet Snack x Teddy Bear",
         category: "Buket Snack",
         price: 450000,
-        image: "IMAGE/Bouquet snack x taddy bear  450k.jpeg",
+        image: "IMAGE/Bouquet snack x taddy bear 450k.jpeg",
         description: "Buket snack komplit ukuran besar dengan boneka teddy bear."
     },
     {
@@ -506,7 +506,7 @@ const products = [
         name: "Bouquet Teddy Bear",
         category: "Buket Bunga",
         price: 175000,
-        image: "IMAGE/Bouquet taddy bear  175k.jpeg",
+        image: "IMAGE/Bouquet taddy bear 175k.jpeg",
         description: "Buket spesial beruang boneka lucu."
     },
     {
@@ -530,7 +530,7 @@ const products = [
         name: "Bouquet Thumbelina Pink Artificial",
         category: "Buket Bunga",
         price: 600000,
-        image: "IMAGE/Bouquet Thumbelina pink artificial  600k.jpeg",
+        image: "IMAGE/Bouquet Thumbelina pink artificial 600k.jpeg",
         description: "Buket thumbelina pink besar yang mewah."
     },
     {
@@ -538,7 +538,7 @@ const products = [
         name: "Bouquet Thumbelina Size L",
         category: "Buket Bunga",
         price: 350000,
-        image: "IMAGE/Bouquet Thumbelina size L  350k.jpeg",
+        image: "IMAGE/Bouquet Thumbelina size L 350k.jpeg",
         description: "Buket thumbelina ukuran L pas untuk kado."
     },
     {
@@ -546,7 +546,7 @@ const products = [
         name: "Bouquet Thumbelina Size XL",
         category: "Buket Bunga",
         price: 500000,
-        image: "IMAGE/Bouquet Thumbelina size xl  500k.jpeg",
+        image: "IMAGE/Bouquet Thumbelina size xl 500k.jpeg",
         description: "Buket thumbelina ukuran XL ekstra besar."
     },
     {
@@ -562,7 +562,7 @@ const products = [
         name: "Omakase Bouquet Artificial",
         category: "Buket Bunga",
         price: 290000,
-        image: "IMAGE/Omakase bouquet artificial  290k.jpeg",
+        image: "IMAGE/Omakase bouquet artificial 290k.jpeg",
         description: "Rangkaian buket gaya omakase seni bebas yang unik."
     },
     {
@@ -570,7 +570,7 @@ const products = [
         name: "Omakase Bouquet Artificial (XL)",
         category: "Buket Bunga",
         price: 400000,
-        image: "IMAGE/Omakase bouquet artificial size xl  400k.jpeg",
+        image: "IMAGE/Omakase bouquet artificial size xl 400k.jpeg",
         description: "Rangkaian buket omakase ukuran XL."
     },
     {
@@ -594,7 +594,7 @@ const products = [
         name: "Vases Artificial Flower Pink",
         category: "Bunga Meja",
         price: 330000,
-        image: "IMAGE/Vases artificial flower pink  330k.jpeg",
+        image: "IMAGE/Vases artificial flower pink 330k.jpeg",
         description: "Vas bunga artifisial nuansa pink manis untuk dekorasi ruangan."
     },
     {
@@ -602,7 +602,7 @@ const products = [
         name: "Vases Flower Artificial",
         category: "Bunga Meja",
         price: 300000,
-        image: "IMAGE/Vases flower artificial  300k.jpeg",
+        image: "IMAGE/Vases flower artificial 300k.jpeg",
         description: "Dekorasi vas bunga artifisial elegan siap pajang."
     },
     {
@@ -850,7 +850,7 @@ const products = [
         name: "Bouquet Snack Random Model 1",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random  120k/WhatsApp Image 2026-10-06 at 13.44.36 (1).jpeg",
+        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.36 (1).jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -858,7 +858,7 @@ const products = [
         name: "Bouquet Snack Random Model 2",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random  120k/WhatsApp Image 2026-10-06 at 13.44.36.jpeg",
+        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.36.jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -866,7 +866,7 @@ const products = [
         name: "Bouquet Snack Random Model 3",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random  120k/WhatsApp Image 2026-10-06 at 13.44.37.jpeg",
+        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.37.jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -874,7 +874,7 @@ const products = [
         name: "Korean Style Bulat Model 1",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.35.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.35.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -882,7 +882,7 @@ const products = [
         name: "Korean Style Bulat Model 2",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.36 (1).jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.36 (1).jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -890,7 +890,7 @@ const products = [
         name: "Korean Style Bulat Model 3",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.36.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.36.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -898,7 +898,7 @@ const products = [
         name: "Korean Style Bulat Model 4",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.37.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.37.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -906,7 +906,7 @@ const products = [
         name: "Korean Style Bulat Model 5",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.38.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.38.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -914,7 +914,7 @@ const products = [
         name: "Korean Style Bulat Model 6",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.39.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.39.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -922,7 +922,7 @@ const products = [
         name: "Korean Style Bulat Model 7",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat  95k/WhatsApp Image 2026-10-06 at 13.41.40.jpeg",
+        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.40.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -938,7 +938,7 @@ const products = [
         name: "Bouquet Green Fresh",
         category: "Buket Bunga",
         price: 270000,
-        image: "IMAGE/Bouquet green fresh  270k.jpeg",
+        image: "IMAGE/Bouquet green fresh 270k.jpeg",
         description: "Rangkaian buket bunga segar bernuansa hijau alami yang segar dipandang."
     },
     {
@@ -946,9 +946,9 @@ const products = [
         name: "Bouquet Artificial Blue",
         category: "Buket Bunga",
         price: 330000,
-        image: "IMAGE/Bouquet artificial blue  330k.jpeg",
+        image: "IMAGE/Bouquet artificial blue 330k.jpeg",
         description: "Buket artifisial warna biru pilihan berkualitas tinggi dan tahan lama."
-    },
+    }
 ];
 
 // Nomor WhatsApp Admin Fatimah Florist
