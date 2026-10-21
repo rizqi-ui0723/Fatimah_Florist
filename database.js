@@ -319,7 +319,7 @@ const products = [
     },
     {
         id: 40,
-        name: "Bouquet Roko",
+        name: "Bouquet Rokok",
         category: "Custom",
         price: 500000,
         image: "IMAGE/Bouquet roko 500k.jpeg",
