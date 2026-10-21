@@ -850,7 +850,7 @@ const products = [
         name: "Bouquet Snack Random Model 1",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.36 (1).jpeg",
+        image: "IMAGE/Bouquet snack random/WhatsApp Image 2026-10-06 at 13.44.36 (1).jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -858,7 +858,7 @@ const products = [
         name: "Bouquet Snack Random Model 2",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.36.jpeg",
+        image: "IMAGE/Bouquet snack random/WhatsApp Image 2026-10-06 at 13.44.36.jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -866,7 +866,7 @@ const products = [
         name: "Bouquet Snack Random Model 3",
         category: "Buket Snack",
         price: 120000,
-        image: "IMAGE/Bouquet snack random 120k/WhatsApp Image 2026-10-06 at 13.44.37.jpeg",
+        image: "IMAGE/Bouquet snack random/WhatsApp Image 2026-10-06 at 13.44.37.jpeg",
         description: "Buket snack komplit pilihan acak yang manis dan menarik untuk kado ucapan."
     },
     {
@@ -874,7 +874,7 @@ const products = [
         name: "Korean Style Bulat Model 1",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.35.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.35.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -882,7 +882,7 @@ const products = [
         name: "Korean Style Bulat Model 2",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.36 (1).jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.36 (1).jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -890,7 +890,7 @@ const products = [
         name: "Korean Style Bulat Model 3",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.36.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.36.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -898,7 +898,7 @@ const products = [
         name: "Korean Style Bulat Model 4",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.37.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.37.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -906,7 +906,7 @@ const products = [
         name: "Korean Style Bulat Model 5",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.38.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.38.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -914,7 +914,7 @@ const products = [
         name: "Korean Style Bulat Model 6",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.39.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.39.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
@@ -922,7 +922,7 @@ const products = [
         name: "Korean Style Bulat Model 7",
         category: "Korean Style",
         price: 95000,
-        image: "IMAGE/Korean style bulat 95k/WhatsApp Image 2026-10-06 at 13.41.40.jpeg",
+        image: "IMAGE/Korean style bulat/WhatsApp Image 2026-10-06 at 13.41.40.jpeg",
         description: "Buket gaya Korea bentuk bulat yang cantik dan minimalis."
     },
     {
