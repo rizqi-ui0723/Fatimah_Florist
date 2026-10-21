@@ -945,7 +945,7 @@ const products = [
         id: 119,
         name: "Bouquet Artificial Blue",
         category: "Buket Bunga",
-        price: 330000,
+        price: 350000,
         image: "IMAGE/Bouquet artificial blue 330k.jpeg",
         description: "Buket artifisial warna biru pilihan berkualitas tinggi dan tahan lama."
     }
