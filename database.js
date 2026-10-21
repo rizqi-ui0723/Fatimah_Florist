@@ -948,6 +948,22 @@ const products = [
         price: 350000,
         image: "IMAGE/Bouquet artificial blue 330k.jpeg",
         description: "Buket artifisial warna biru pilihan berkualitas tinggi dan tahan lama."
+    },
+    {
+        id: 120,
+        name: "Bouquet Thumbelina Fresh",
+        category: "Buket Bunga",
+        price: 250000,
+        image: "IMAGE/Bouquet Thumbelina fresh 250k.jpeg",
+        description: "Rangkaian bunga segar model thumbelina yang manis dan menawan untuk kado spesial."
+    },
+    {
+        id: 121,
+        name: "BloomBox Fresh 40 Tangkai Mawar",
+        category: "Bloom Box",
+        price: 500000,
+        image: "IMAGE/BlomBox fresh 40 tangkai Mawar 500k.jpeg",
+        description: "Bloom box eksklusif berisi 40 tangkai bunga mawar segar pilihan yang mewah dan romantis."
     }
 ];
 
